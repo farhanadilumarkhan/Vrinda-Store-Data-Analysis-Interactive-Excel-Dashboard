@@ -56,8 +56,8 @@ Raw order-level data with the following fields:
 - **Order Status** — Pie chart breaking down Delivered, Refunded, Returned, and Cancelled orders
 - **Sales: Men vs Women** — Pie chart comparing total revenue share by gender
 
-![Sales Dashboard](Vrinda-Sales-Dashboard.png)
-![Raw Data Sheet](Vrinda-Raw-Data.png)
+![Sales Dashboard](screenshots/Vrinda-Sales-Dashboard.png)
+![Raw Data Sheet](screenshots/Vrinda-Raw-Data.png)
 
 ---
 
